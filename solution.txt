@@ -1,0 +1,6 @@
+Solución encontrada en 5 pasos:
+up
+up
+left
+down
+right
