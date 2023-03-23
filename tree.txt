@@ -60,4 +60,4 @@
             └── [[2, 8, 3], [None, 1, 6], [7, 5, 4]]
                 ├── [[None, 8, 3], [2, 1, 6], [7, 5, 4]]
                 └── [[2, 8, 3], [7, 1, 6], [None, 5, 4]]
-Tiempo de ejecución: 0.002917 segundos
+Tiempo de ejecución: 0.003619 segundos
